@@ -7,4 +7,4 @@ build:
 	gcc -shared -o libhelloworld.so *.o
 
 clean:
-	rm *.o *.so -vf
+	rm *.o *.so *.class -vf

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tmpl": "html",
+        "*.gtpl": "html",
+        "*.sql": "sql",
+        "helloworld.h": "c"
+    }
+}
